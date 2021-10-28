@@ -1,2 +1,4 @@
 ﻿  lab-5.4.cpp
-  lab-5.4.vcxproj -> C:\Users\Roma\source\repos\lab-5.4\Debug\lab-5.4.exe
+C:\Users\Roma\source\repos\lab-5.4\lab-5.4.cpp(105,7): warning C4101: 'c': unreferenced local variable
+C:\Users\Roma\source\repos\lab-5.4\lab-5.4.cpp(101): warning C4715: 'mybin': not all control paths return a value
+C:\Users\Roma\source\repos\lab-5.4\lab-5.4.cpp(110): error C4700: uninitialized local variable 'C' used
